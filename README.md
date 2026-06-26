@@ -15,13 +15,15 @@ A repository containing the documents produced by the DriverPass Project.
 <p>I interpreted the user's needs by discovering and defining needs through a text document of an interview with the client. Next, I documented the requirements into a business requirement document and a system design document. Considering the user's needs when designing systems because their input guides how the system works. If their needs aren't considered, then developers can end up building features that users don't find valuable or usable.</p>
 
 ## How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+<p><b>Current Approach to Designing Software:</b></p>
 <ol>
   <li>Define clear requirements and translate them into clear workflows and constraints.</li>
   <li>Divide the requirements into functional and non-functional requirements.</li>
   <li>Identify and implement use cases into a UML model.</li>
   <li>Model the core features first as UML diagrams.</li>
 </ol>
-<p><b>Future Techniques And Strategies:</b></p>
+
+<p><b>Future Techniques and Strategies:</b></p>
 <ul>
   <li>Create user stories, their acceptance criteria, and their test cases.</li>
   <li>Implement the MoSCoW method to figure out which tasks to prioritize based on their importance.</li>
